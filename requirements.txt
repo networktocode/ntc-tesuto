@@ -1,0 +1,4 @@
+console-menu
+prettytable
+PyYAML
+git+https://gitlab.com/tesuto/public/tesuto-python@master#egg=tesuto_python
